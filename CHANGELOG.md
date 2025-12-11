@@ -1,3 +1,5 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+* Initial release of ConnectGuard.
+* Added `ConnectMonitor` for reliable internet checking.
+* Added `ConnectGuard` widget for reactive UI updates.
